@@ -1,0 +1,19 @@
+.body_background
+{
+    background-image:url(https://th.bing.com/th/id/R.cd145c6d52d84895ea1c5e007fbc096e?rik=JpuCEt%2frPrp2gA&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f07%2fPower-Rangers-HD-Image.jpg&ehk=jdnMsbd96BlB8vNNQr16s%2biY1vFTlXB%2f%2bcOJ4sFZbnw%3d&risl=&pid=ImgRaw);
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+
+h3
+{
+    width: 1000px;
+    background-color: white;
+    display: inline-block;
+}
